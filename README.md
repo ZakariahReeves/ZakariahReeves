@@ -1,10 +1,11 @@
 <h1>Hi, I'm Zak! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 It Systems  Projects:</h2>
+<h2>👨‍💻 It Technican Projects:</h2>
 
-- <b> Active directory Home Lab </b>
-  - <b> Active directory Home Lab </b>
-  - <b> Building a Ticketing System </b>
+- <b> Active directory</b>
+  - <b> Setting up Active directory Home Lab</b>
+- <b>Building a Ticketing System</b>
+  - <b><a href="[bit.ly/ZakariahPortfolio]"> Learning Excel, Practing connection of APIs and making Ticketing accessible</a></b>
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
