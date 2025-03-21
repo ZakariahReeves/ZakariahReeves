@@ -5,7 +5,7 @@
 - <b> Active directory</b>
   - <b> Setting up Active directory Home Lab</b>
 - <b>Building a Ticketing System</b>
-  - <b><a href="[bit.ly/ZakariahPortfolio]"> Learning Excel, Practing connection of APIs and making Ticketing accessible</a></b>
+  - <b><a href="[bit.ly/ZakariahPortfolio]"> Google Suite, Slack API, QR Code Integration, Excel scripting and formulas</a></b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
